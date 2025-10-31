@@ -1,18 +1,4 @@
-@media (max-width: 767px){
-  [data-section-id="68ecf0d8b379f60f1dae0f65"] .content-wrapper{
-    padding-top:12px !important;
-    padding-bottom:12px !important;
-    min-height:0 !important;
-  }
-  [data-section-id="68ecf0d8b379f60f1dae0f65"] .fe-grid{
-    row-gap:0 !important;
-  }
-  [data-section-id="68ecf0d8b379f60f1dae0f65"] .sqs-block.spacer-block{
-    display:none !important;
-    height:0 !important;
-    padding:0 !important;
-    margin:0 !important;
-  }
+html body, body.sqs-seven-one {
+  box-shadow: inset 0 0 0 6px hotpink !important;
+  outline: 6px solid hotpink !important;
 }
-
-body { outline: 65px solid hotpink !important; }
